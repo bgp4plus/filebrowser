@@ -1,0 +1,4 @@
+# My domain.
+example.com
+
+  reverse_proxy http://filebrowser
